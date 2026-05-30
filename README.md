@@ -28,5 +28,12 @@ The research primarily utilized the following methods:
 * Interviews with language experts and scholars.
 * Analysis of historical documents and parchment manuscripts (Birana).
 
+# How to Read the Research
+
+To view the original Amharic research document in its proper formatting, follow these two steps:
+
+1. Click on the **`research.pdf`** file in the list above.
+2. Click the **Download raw file** button (the downward arrow icon) on the top right to download and view the original Amharic paper on your device.
+
 ---
 > **Note:** This study emphasizes Ge'ez not only as a liturgical language but also as a national and global source of indigenous knowledge.
